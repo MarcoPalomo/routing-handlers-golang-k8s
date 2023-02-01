@@ -1,8 +1,8 @@
-module github.com/MarcoPalomo/routing-handlers-golang-k8s
+module github.com/MarcoPalomo
 
 go 1.18
 
-require {
-  github.com/gorilla/mux
-}
+require (
+  github.com/gorilla/mux v1.8.0
+)
 
