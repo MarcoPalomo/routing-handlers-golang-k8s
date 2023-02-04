@@ -41,6 +41,6 @@ $ kubectl port-forward go-hello-world-69b45499fb-7fh87 8080:8080
 $ curl localhost:8080
   Hello, Guest
   
- $ curl localhost:8080?name=Tom
- Hello, Tom
+ $ curl localhost:8080?name=Marco
+ Hello, Marco
 ```
